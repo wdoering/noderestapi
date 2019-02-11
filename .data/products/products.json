@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "description": "small pizza",
+        "price": 10.00
+    },
+    {
+        "id": 2,
+        "description": "medium pizza",
+        "price": 15.00
+    },
+    {
+        "id": 3,
+        "description": "large pizza",
+        "price": 20.00
+    }
+]
